@@ -31,8 +31,8 @@
     <url>https://github.com/CycloneDX/cyclonedx-otm-java</url>
     <inceptionYear>2022</inceptionYear>
     <organization>
-        <name>CycloneDX</name>
-        <url>https://cyclonedx.org</url>
+        <name>OWASP Foundation</name>
+        <url>https://owasp.org/</url>
     </organization>
 
     <licenses>
